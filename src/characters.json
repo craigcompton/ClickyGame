@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Naga Sadow",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fb/Naga_Sadow_Headshot.JPG/revision/latest?cb=20080626045055"
+    },
+    {
+        "id": 2,
+        "name": "Darth Revan",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/69/RevanconfrontsSithEmperor.jpg/revision/latest?cb=20130501215527"
+    },
+    {
+        "id": 3,
+        "name": "Marka Ragnos",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/0/08/Markaragnosheadshot.jpg/revision/latest?cb=20071206011718"
+    },
+    {
+        "id": 4,
+        "name": "Freedon Nadd",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/a/ab/Freedon_Nadd_Headshot.JPG/revision/latest?cb=20080626052103"
+    },
+    {
+        "id": 5,
+        "name": "Exar Kun",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7a/Exar_Kun_Headshot.JPG/revision/latest?cb=20080626042852"
+    },
+    {
+        "id": 6,
+        "name": "Count Dooku",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f1/Count_Dooku_headshot_gaze.jpg/revision/latest?cb=20071218042012"
+    },
+    {
+        "id": 7,
+        "name": "Darth Traya",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/8/8c/Kreia_Trayus_Hoodless.jpg/revision/latest?cb=20091106171817"
+    },
+    {
+        "id": 8,
+        "name": "Darth Talon",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d7/TalonHS.jpg/revision/latest?cb=20090203195735"
+    },
+    {
+        "id": 9,
+        "name": "Darth Sion",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9c/Darthsionheadshot.jpg/revision/latest?cb=20091109051019"
+    },
+    {
+        "id": 10,
+        "name": "Darth Sidious",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Emperor_Sidious.png/revision/latest?cb=20130620100935"
+    },
+    {
+        "id": 11,
+        "name": "Darth Plagueis",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/1c/DarthPlagueisHS-SWI130.jpg/revision/latest?cb=20111215032455"
+    },
+    {
+        "id": 12,
+        "name": "Darth Nihilus",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/97/KOTOR2Nihilus.jpg/revision/latest?cb=20071122021511"
+    },
+    {
+        "id": 13,
+        "name": "Darth Maul",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png/revision/latest?cb=20140209162228"
+    },
+    {
+        "id": 14,
+        "name": "Darth Malak",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c7/Malakart_crop.jpg/revision/latest?cb=20080118044508"
+    },
+    {
+        "id": 15,
+        "name": "Darth Bane",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/b/be/Darth_Bane-TEA.jpg/revision/latest?cb=20090903051934"
+    },
+    {
+        "id": 16,
+        "name": "Darth Vader",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/94/Vaderrotj.jpg/revision/latest?cb=20070418231644"
+    },
+    {
+        "id": 17,
+        "name": "Darth Krayt",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/2/2e/DarthKraytReveal.jpg/revision/latest?cb=20081107000651"
+    },
+    {
+        "id": 18,
+        "name": "Darth Caedus",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/e/e4/Caedus_EA.jpg/revision/latest?cb=20100104005627"
+    }
+]
